@@ -1,6 +1,6 @@
 # Software testing portfolio
 
-![This is an image](https://github.com/Claudia-Serra/software-testing-portfolio/assets/123982708/1508272a-3b3f-44b2-803c-5eccbdd1a602)
+![This is an image](https://github.com/Claudia-Serra/software-testing-portfolio/assets/123982708/2bb74f3c-038d-40d5-bef7-b2789c92fdeb)
 
 - [Profile summary](#profile-summary)
 - [My testing work (with custom exercises)](#my-testing-work-with-custom-exercises)
